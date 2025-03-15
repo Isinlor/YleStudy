@@ -1,0 +1,9 @@
+{
+  "model": "text-davinci-003",
+  "prompt": "Find the word in its base form and translate:\n\nNyt uutisia helpolla suomen kielellä, hyvää päivää.\nTranslation: Now news in easy Finnish language, good day.\n\nnyt - nyt - now\nuutisia - uutiset - news\nhelpolla - helppo - easy\nsuomen - suomi - Finnish\nkielellä - kieli - language\nhyvää - hyvä - good\npäivää - päivä - day\n\nUkrainalaiset eivät kuitenkaan alistuneet.\nTranslation: However, the Ukrainians did not submit.\n\nukrainalaiset - ukrainalainen - Ukrainian\neivät - ei - not\nkuitenkaan - kuitenkaan - however\nalistuneet - alistua - to submit\n\nMyös monet keskituloiset ihmiset joutuvat nyt miettimään rahankäyttöä entistä tarkemmin, kertoo Takuusäätiö.\nTranslation: Also, many middle-income people now have to think more carefully than before about spending money, says the Guarantee Foundation.\n\nmyös - myös - also\nmonet - monet - many\nkeskituloiset - keskituloinen - middle-income\nihmiset - ihminen - people\njoutuvat - joutua - have to\nnyt - nyt - now\nmiettimään - miettiä - to consider\nrahankäyttöä - rahankäyttö - money usage\nentistä - entinen - former\ntarkemmin - tarkemmin - more closely\nkertoo - kertoa - to tell\nTakuusäätiö - Takuusäätiö - Guarantee Foundation\n\nJotkut apteekit ovat joutuneet lyhentämään aukioloaikoja, koska farmaseutteja ei saada palkattua tarpeeksi.\nTranslation: Some pharmacies have had to shorten their opening hours, because they can't hire enough pharmacists.\n\njotkut - jotkut - some\napteekit - apteekki - pharmacy\novat joutuneet - joutua - have to\nlyhentämään - lyhentää - to shorten\naukioloaikoja - aukioloajat - opening hours\nkoska - koska - because\nfarmaseutteja - farmaseutti - pharmacist\nei - ei - not\nsaada - saada - to get\npalkattua - palkata - to hire\ntarpeeksi - tarpeeksi - enough\n",
+  "temperature": 0,
+  "max_tokens": 256,
+  "top_p": 1,
+  "frequency_penalty": 0,
+  "presence_penalty": 0
+}

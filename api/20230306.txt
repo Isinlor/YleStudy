@@ -1,0 +1,337 @@
+Aluksi uutinen venäjän kielen opiskelusta.
+Translation: Initially, news about studying Russian language.
+
+aluksi - aluksi - initially
+uutinen - uutinen - news
+venäjän - venäjä - Russian
+kielen - kieli - language
+opiskelusta - opiskella - to study
+
+--- new line ---
+Venäjän kielen suosio alakouluissa on romahtanut.
+Translation: The popularity of Russian language in elementary schools has plummeted.
+
+Venäjän - venäjä - Russian
+kielen - kieli - language
+suosio - suosio - popularity
+alakouluissa - alakoulu - elementary school
+on - olla - to be
+romahtanut - romahtaa - to plummet
+
+--- new line ---
+Lasku näkyy etenkin tämän kevään kielivalinnoissa.
+Translation: The effect is especially visible in language choices this spring.
+
+lasku - lasku - effect
+näkyy - näkyä - to be visible
+etenkin - etenkin - especially
+tämän - tämä - this
+kevään - kevät - spring
+kielivalinnoissa - kielivalinta - language choice
+
+--- new line ---
+Esimerkiksi Joensuussa, Mikkelissä ja Jyväskylässä venäjän suosio on laskenut niin paljon, että alakouluihin ei perusteta uusia venäjän kielen opetusryhmiä ensi syksynä.
+Translation: For example, in Joensuu, Mikkeli and Jyväskylä, the popularity of Russian has decreased so much that no new Russian language teaching groups will be established in elementary schools next fall.
+
+esimerkiksi - esimerkiksi - for example
+Joensuussa - Joensuu - Joensuu
+Mikkelissä - Mikkeli - Mikkeli
+Jyväskylässä - Jyväskylä - Jyväskylä
+venäjän - venäjä - Russian
+suosio - suosio - popularity
+on laskenut - laskea - to decrease
+niin paljon - niin paljon - so much
+että - että - that
+alakouluihin - alakoulu - elementary school
+ei - ei - not
+perusteta - perustaa - to establish
+uusia - uusi - new
+venäjän - venäjä - Russian
+kielen - kieli - language
+opetusryhmiä - opetusryhmä - teaching
+
+--- new line ---
+Venäjän kielen suosio alakouluissa on romahtanut.
+Translation: The popularity of Russian language in elementary schools has plummeted.
+
+Venäjän - venäjä - Russian
+kielen - kieli - language
+suosio - suosio - popularity
+alakouluissa - alakoulu - elementary school
+on - olla - to be
+romahtanut - romahtaa - to plummet
+
+--- new line ---
+Myös itärajan lähellä Lappeenrannassa on epävarmaa, miten venäjän opetus ensi syksynä järjestetään.
+Translation: It is also uncertain in Lappeenranta near the eastern border how Russian teaching will be organized next autumn.
+
+myös - myös - also
+itärajan - itäraja - eastern border
+lähellä - lähellä - near
+Lappeenrannassa - Lappeenranta - Lappeenranta
+on - olla - to be
+epävarmaa - epävarma - uncertain
+miten - miten - how
+venäjän - venäjä - Russian
+opetus - opetus - teaching
+ensi - ensi - next
+syksynä - syksy - autumn
+järjestetään - järjestää - to organize
+
+--- new line ---
+Lappeenrannan Lauritsalan koulun kolmasluokkalaiset Aleksi Liutu ja Minttu Koskela ovat valinneet A2-kieleksi venäjän.
+Translation: Aleksi Liutu and Minttu Koskela, third graders at Lappeenranta Lauritsala School, have chosen Russian as their A2 language.
+
+Lappeenrannan - Lappeenranta - Lappeenranta
+Lauritsalan - Lauritsala - Lauritsala
+koulun - koulu - school
+kolmasluokkalaiset - kolmasluokkalainen - third grader
+Aleksi - Aleksi - Aleksi
+Liutu - Liutu - Liutu
+ja - ja - and
+Minttu - Minttu - Minttu
+Koskela - Koskela - Koskela
+ovat - olla - have
+valinneet - valita - chosen
+A2-kieleksi - A2-kieli - A2 language
+venäjän - venäjä - Russian
+
+--- new line ---
+He kertovat, miksi venäjän opiskelu kannattaa.
+Translation: They explain why it is worth studying Russian.
+
+he - he - they
+kertovat - kertoa - to explain
+miksi - miksi - why
+venäjän - venäjä - Russian
+opiskelu - opiskelu - studying
+kannattaa - kannattaa - to be worth
+
+--- new line ---
+- Jos lähtee vaikka Venäjälle, niin siellä sitten osaa puhua sitä.
+Translation: If you go to Russia, for example, then you can speak it there.
+
+jos - jos - if
+lähtee - lähteä - to go
+vaikka - vaikka - even
+Venäjälle - Venäjä - Russia
+niin - niin - then
+siellä - siellä - there
+sitten - sitten - then
+osaa - osata - to be able to
+puhua - puhua - to speak
+sitä - se - it
+
+--- new line ---
+- Jos Suomeen tulee jotain venäläisiä, niin niille voi puhua.
+Translation: If something Russian comes to Finland, then you can speak to them.
+
+jos - jos - if
+Suomeen - Suomi - Finland
+tulee - tulla - to come
+jotain - jotain - something
+venäläisiä - venäläinen - Russian
+niin - niin - then
+niille - niille - to them
+voi - voi - can
+puhua - puhua - to speak
+
+--- new line ---
+Sitten Viron parlamenttivaalien tulos.
+Translation: Then the result of the Estonian parliamentary elections.
+
+sitten - sitten - then
+Viron - Viro - Estonia
+parlamenttivaalien - parlamenttivaali - parliamentary election
+tulos - tulos - result
+
+--- new line ---
+Virossa pääministeri Kaja Kallaksen Reformipuolue  on voittanut eiliset parlamenttivaalit.
+Translation: In Estonia, Prime Minister Kaja Kallas's Reform Party has won yesterday's parliamentary elections.
+
+Virossa - Viro - Estonia
+pääministeri - pääministeri - Prime Minister
+Kaja Kallaksen - Kaja Kallas - Kaja Kallas
+Reformipuolue - Reformipuolue - Reform Party
+on voittanut - voittaa - to win
+eiliset - eilinen - yesterday's
+parlamenttivaalit - parlamenttivaalit - parliamentary elections
+
+--- new line ---
+Reformipuolue sai reilut 31 prosenttia äänistä.
+Translation: The Reform Party received just over 31 percent of the votes.
+
+Reformipuolue - Reformipuolue - Reform Party
+sai - saada - received
+reilut - reilu - just over
+31 - 31 - 31
+prosenttia - prosentti - percent
+äänistä - ääni - vote
+
+--- new line ---
+Viron parlamentissa on yhteensä 101 paikkaa.
+Translation: There are a total of 101 seats in the Estonian Parliament.
+
+Viron - Viro - Estonia
+parlamentissa - parlamentti - parliament
+on - olla - to be
+yhteensä - yhteensä - total
+101 - sata yksi - one hundred one
+paikkaa - paikka - seat
+
+--- new line ---
+Reformipuolue saa parlamenttiin 37 paikkaa.
+Translation: The Reform Party gets 37 seats in parliament.
+
+reformipuolue - reformipuolue - Reform Party
+saa - saada - to get
+parlamenttiin - parlamentti - parliament
+37 - 37 - 37
+paikkaa - paikka - seat
+
+--- new line ---
+Toiseksi suosituin oli kansalliskonservatiivinen Ekre-puolue.
+Translation: The second most popular was the national conservative Ekre party.
+
+toiseksi - toiseksi - second
+suosituin - suosittu - popular
+oli - olla - was
+kansalliskonservatiivinen - kansalliskonservatiivinen - national conservative
+Ekre-puolue - Ekre-puolue - Ekre party
+
+--- new line ---
+Ekre saa parlamenttiin 17 paikkaa.
+Translation: Ekre will get 17 seats in parliament.
+
+Ekre - Ekre - Ekre
+saa - saada - will get
+parlamenttiin - parlamentti - parliament
+17 - 17 - 17
+paikkaa - paikka - seat
+
+--- new line ---
+Viron vaalien yllättäjäksi nousi liberaali Eesti 200 -puolue.
+Translation: The surprise of the Estonian elections was the liberal Estonian 200 party.
+
+Viron - Viro - Estonia
+vaalien - vaalit - elections
+yllättäjäksi - yllättäjä - surprise
+nousi - nousta - to rise
+liberaali - liberaali - liberal
+Eesti - Eesti - Estonian
+200 - 200 - 200
+puolue - puolue - party
+
+--- new line ---
+Puolueella ei aiemmin ollut parlamentissa yhtään paikkaa, mutta nyt se saa 14 edustajaa.
+Translation: The party previously had no seats in parliament, but now it will get 14 representatives.
+
+puolueella - puolue - party
+ei - ei - not
+aiemmin - aiemmin - previously
+ollut - olla - to have
+parlamentissa - parlamentti - parliament
+yhtään - yksi - one
+paikkaa - paikka - seat
+mutta - mutta - but
+nyt - nyt - now
+se - se - it
+saa - saada - to get
+14 - 14 - 14
+edustajaa - edustaja - representative
+
+--- new line ---
+Sitten urheilu-uutisia.
+Translation: Then sports news.
+
+sitten - sitten - then
+urheilu-uutisia - urheilu-uutiset - sports news
+
+--- new line ---
+Suomen naiset voittivat 2 Euroopan mestaruutta EM-hallikisoissa Istanbulissa.
+Translation: The Finnish women won two European championships at the European Indoor Championships in Istanbul.
+
+Suomen - Suomi - Finnish
+naiset - nainen - women
+voittivat - voittaa - to win
+2 - kaksi - two
+Euroopan - Eurooppa - European
+mestaruutta - mestaruus - championship
+EM-hallikisoissa - EM-hallikisat - European Indoor Championships
+Istanbulissa - Istanbul - Istanbul
+
+--- new line ---
+Wilma Murto voitti lauantaina seiväshypyn EM-kultaa.
+Translation: Wilma Murto won the European Championship gold medal in pole vaulting on Saturday.
+
+Wilma - Wilma - Wilma
+Murto - Murto - Murto
+voitti - voittaa - won
+lauantaina - lauantai - Saturday
+seiväshypyn - seiväshyppy - pole vaulting
+EM-kultaa - EM-kulta - European Championship gold
+
+--- new line ---
+Reetta Hurske voitti eilen 60 metrin aitajuoksussa EM-kultaa.
+Translation: Reetta Hurske won the European Championship gold in the 60-meter hurdles yesterday.
+
+Reetta - Reetta - Reetta
+Hurske - Hurske - Hurske
+voitti - voittaa - to win
+eilen - eilen - yesterday
+60 - 60 - 60
+metrin - metri - meter
+aitajuoksussa - aitajuoksu - hurdles
+EM-kultaa - EM-kulta - European Championship gold
+
+--- new line ---
+EM-hallikisat päättyivät eilen.
+Translation: The European Indoor Championships ended yesterday.
+
+EM-hallikisat - EM-hallikisat - European Indoor Championships
+päättyivät - päättyä - to end
+eilen - eilen - yesterday
+
+--- new line ---
+Vielä sääennuste.
+Translation: And the weather forecast.
+
+vielä - vielä - still
+sääennuste - sääennuste - weather forecast
+
+--- new line ---
+Tiistaina sää on pääosin poutaista.
+Translation: Tuesday the weather will be mostly sunny.
+
+tiistaina - tiistai - Tuesday
+sää - sää - weather
+on - olla - will be
+pääosin - pääosin - mostly
+poutaista - poutainen - sunny
+
+--- new line ---
+Pohjoisessa on melko pilvistä, etelässä on aurinkoista.
+Translation: In the north it is quite cloudy, in the south it is sunny.
+
+pohjoisessa - pohjoinen - north
+on - olla - to be
+melko - melko - quite
+pilvistä - pilvinen - cloudy
+etelässä - etelä - south
+on - olla - to be
+aurinkoista - aurinkoinen - sunny
+
+--- new line ---
+Pakkasta on 3...10 astetta, pohjoisessa on paikoin kylmempää.
+Translation: The frost is 3...10 degrees, in the north it is colder in some places.
+
+pakkasta - pakkanen - frost
+on - olla - to be
+3...10 - 3...10 - 3...10
+astetta - astetta - degrees
+pohjoisessa - pohjoinen - north
+on - olla - to be
+paikoin - paikoin - in some places
+kylmempää - kylmä - cold
+
+--- new line ---

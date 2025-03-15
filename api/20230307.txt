@@ -1,0 +1,362 @@
+Aluksi ruokaostoksista. Huoli rahasta näkyy myös kaupassa.
+Translation: Initially, food shopping. Concern about money is also visible in the store.
+
+aluksi - aluksi - initially
+ruokaostoksista - ruokaostos - food shopping
+huoli - huoli - concern
+rahasta - raha - money
+näkyy - näkyä - to be visible
+myös - myös - also
+kaupassa - kauppa - store
+
+--- new line ---
+Ruokaostoksissa korostuu nyt edullisuus.
+Translation: Now, affordability is emphasized in food shopping.
+
+ruokaostoksissa - ruokaostokset - food shopping
+korostuu - korostua - to be emphasized
+nyt - nyt - now
+edullisuus - edullisuus - affordability
+
+--- new line ---
+Siksi monet ovat luopuneet eettisistä valinnoista.
+Translation: Therefore, many have given up on ethical choices.
+
+siksi - siksi - therefore
+monet - monet - many
+ovat luopuneet - luopua - to give up
+eettisistä - eettinen - ethical
+valinnoista - valinta - choice
+
+--- new line ---
+S-ryhmä ja Kesko kertovat, että esimerkiksi luomutuotteiden myynti on laskenut vuoden aikana.
+Translation: S-Group and Kesko report that, for example, the sale of organic products has decreased over the year.
+
+S-ryhmä - S-ryhmä - S-Group
+ja - ja - and
+Kesko - Kesko - Kesko
+kertovat - kertoa - to report
+että - että - that
+esimerkiksi - esimerkiksi - for example
+luomutuotteiden - luomutuote - organic product
+myynti - myynti - sale
+on - olla - to be
+laskenut - laskea - to decrease
+vuoden - vuosi - year
+aikana - aika - over
+
+--- new line ---
+Suunta on sama kaikissa maakunnissa.
+Translation: The direction is the same in all provinces.
+
+suunta - suunta - direction
+on - olla - to be
+sama - sama - same
+kaikissa - kaikki - all
+maakunnissa - maakunta - province
+
+--- new line ---
+Nyt pääkaupungin kunnostamisesta.
+Translation: Now of the renovation of the capital.
+
+nyt - nyt - now
+pääkaupungin - pääkaupunki - capital
+kunnostamisesta - kunnostaa - to renovate
+
+--- new line ---
+Helsingissä on alkanut kaupungin historian suurin katuremontti.
+Translation: The largest pavement renovation in the city's history has begun in Helsinki.
+
+Helsingissä - Helsinki - Helsinki
+on - olla - to be
+alkanut - alkaa - to begin
+kaupungin - kaupunki - city
+historian - historia - history
+suurin - suuri - largest
+katuremontti - katuremontti - pavement renovation
+
+--- new line ---
+Se tehdään ydinkeskustassa kaupungin pääkadulla.
+Translation: It is done in the city center on the main street of the city.
+
+se - se - it
+tehdään - tehdä - to do
+ydinkeskustassa - ydinkeskusta - city center
+kaupungin - kaupunki - city
+pääkadulla - pääkatu - main street
+
+--- new line ---
+Mannerheimintien peruskorjaus kestää yli 2 vuotta.
+Translation: The renovation of Mannerheimintie will take more than 2 years.
+
+Mannerheimintien - Mannerheimintie - Mannerheimintie
+peruskorjaus - peruskorjata - renovation
+kestää - kestää - will take
+yli - yli - more than
+2 - kaksi - two
+vuotta - vuosi - year
+
+--- new line ---
+Nyt uusitaan esimerkiksi vesiputket ja sähkökaapelit, jotka kulkevat Mannerheimintien alla.
+Translation: Now, for example, water pipes and electrical cables that run under Mannerheimintie are being renewed.
+
+nyt - nyt - now
+uusitaan - uusia - to renew
+esimerkiksi - esimerkiksi - for example
+vesiputket - vesiputki - water pipe
+ja - ja - and
+sähkökaapelit - sähkökaapeli - electrical cable
+jotka - jotka - which
+kulkevat - kulkea - to run
+Mannerheimintien - Mannerheimintie - Mannerheimintie
+alla - alla - under
+
+--- new line ---
+Ensin korjataan Postitalon ja Oopperan välinen tieosuus.
+Translation: First, the section of road between Postitalo and Ooppera will be repaired.
+
+ensin - ensin - first
+korjataan - korjata - to repair
+Postitalon - Postitalo - Postitalo
+ja - ja - and
+Oopperan - Ooppera - Ooppera
+välinen - välinen - between
+tieosuus - tieosuus - section of road
+
+--- new line ---
+Sen jälkeen korjataan osuus Oopperalta pohjoiseen.
+Translation: Afterwards, the portion from Oopperalta to the north is repaired.
+
+sen - se - that
+jälkeen - jälkeen - afterwards
+korjataan - korjata - to repair
+osuus - osuus - portion
+Oopperalta - Oopperalta - Oopperalta
+pohjoiseen - pohjoiseen - to the north
+
+--- new line ---
+Helsingissä on alkanut kaupungin historian suurin katuremontti.
+Translation: The largest pavement renovation in the city's history has begun in Helsinki.
+
+Helsingissä - Helsinki - Helsinki
+on - olla - to be
+alkanut - alkaa - to begin
+kaupungin - kaupunki - city
+historian - historia - history
+suurin - suuri - largest
+katuremontti - katuremontti - pavement renovation
+
+--- new line ---
+Remontin takia esimerkiksi bussien ja raitiovaunujen reitit muuttuvat.
+Translation: Due to the renovation, for example, the routes of buses and trams will change.
+
+remontin - remontti - renovation
+takia - takia - due to
+esimerkiksi - esimerkiksi - for example
+bussien - bussi - bus
+ja - ja - and
+raitiovaunujen - raitiovaunu - tram
+reitit - reitti - route
+muuttuvat - muuttua - to change
+
+--- new line ---
+Sitten koulujen seksuaalikasvatuksesta.
+Translation: Then about sexual education in schools.
+
+sitten - sitten - then
+koulujen - koulu - school
+seksuaalikasvatuksesta - seksuaalikasvatus - sexual education
+
+--- new line ---
+Seksuaalikasvatus on nyt monipuolisempaa kuin ennen.
+Translation: Sexual education is now more diverse than before.
+
+seksuaalikasvatus - seksuaalikasvatus - sexual education
+on - olla - to be
+nyt - nyt - now
+monipuolisempaa - monipuolinen - diverse
+kuin - kuin - than
+ennen - ennen - before
+
+--- new line ---
+Ehkäisyn ja seksitautien lisäksi nuorille puhutaan tunteista ja seksuaalisuuden moninaisuudesta.
+Translation: In addition to contraception and STDs, young people are also talked to about emotions and the diversity of sexuality.
+
+ehkäisyn - ehkäisy - contraception
+ja - ja - and
+seksitautien - seksitauti - STD
+lisäksi - lisäksi - in addition
+nuorille - nuori - young
+puhutaan - puhua - to talk
+tunteista - tunne - emotion
+ja - ja - and
+seksuaalisuuden - seksuaalisuus - sexuality
+moninaisuudesta - moninaisuus - diversity
+
+--- new line ---
+Samalla opetetaan omien rajojen tunnistamista.
+Translation: At the same time, learning to recognize one's own boundaries is taught.
+
+samalla - samalla - at the same time
+opetetaan - opettaa - to teach
+omien - oma - own
+rajojen - raja - boundaries
+tunnistamista - tunnistaa - to recognize
+
+--- new line ---
+Joskus seksuaalisuudesta puhuminen on kiusallista oman opettajan kanssa.
+Translation: Sometimes talking about sexuality is awkward with one's own teacher.
+
+joskus - joskus - sometimes
+seksuaalisuudesta - seksuaalisuus - sexuality
+puhuminen - puhua - talking
+on - olla - to be
+kiusallista - kiusallinen - awkward
+oman - oma - own
+opettajan - opettaja - teacher
+kanssa - kanssa - with
+
+--- new line ---
+Aihe on helpompi, kun seksuaalikasvatusta antaa esimerkiksi kätilöopiskelija.
+Translation: The topic is easier when sexual education is given, for example, by a midwife student.
+
+aihe - aihe - topic
+on - olla - to be
+helpompi - helppo - easier
+kun - kun - when
+seksuaalikasvatusta - seksuaalikasvatus - sexual education
+antaa - antaa - to give
+esimerkiksi - esimerkiksi - for example
+kätilöopiskelija - kätilöopiskelija - midwife student
+
+--- new line ---
+Vielä suru-uutinen. Historiantutkija, professori Matti Klinge on kuollut.
+Translation: Still a sad news. Historian professor Matti Klinge has passed away.
+
+vielä - vielä - still
+suru-uutinen - suru-uutinen - sad news
+historiantutkija - historiantutkija - historian
+professori - professori - professor
+Matti Klinge - Matti Klinge - Matti Klinge
+on - olla - has
+kuollut - kuolla - passed away
+
+--- new line ---
+Hän oli 86-vuotias.
+Translation: He was 86 years old.
+
+hän - hän - he
+oli - olla - was
+86-vuotias - 86-vuotias - 86 years old
+
+--- new line ---
+Klinge oli akateeminen vaikuttaja, jonka erikoisala oli eurooppalainen sivistys- ja kulttuurihistoria.
+Translation: Klinge was an academic influencer, whose specialty was European intellectual and cultural history.
+
+Klinge - Klinge - Klinge
+oli - olla - was
+akateeminen - akateeminen - academic
+vaikuttaja - vaikuttaja - influencer
+jonka - jonka - whose
+erikoisala - erikoisala - specialty
+oli - olla - was
+eurooppalainen - eurooppalainen - European
+sivistys - sivistys - intellectual
+ja - ja - and
+kulttuurihistoria - kulttuurihistoria - cultural history
+
+--- new line ---
+Klinge kirjoitti paljon esimerkiksi Suomen ja Itämeren alueen historiasta.
+Translation: Klinge wrote a lot about, for example, the history of Finland and the Baltic Sea region.
+
+Klinge - Klinge - Klinge
+kirjoitti - kirjoittaa - wrote
+paljon - paljon - a lot
+esimerkiksi - esimerkiksi - for example
+Suomen - Suomi - Finland
+ja - ja - and
+Itämeren - Itämeri - Baltic Sea
+alueen - alue - region
+historiasta - historia - history
+
+--- new line ---
+2000-luvulla hänellä oli myös oma tv-sarja.
+Translation: In the 2000s, he also had his own TV series.
+
+2000-luvulla - 2000-luvulla - in the 2000s
+hänellä - hän - he
+oli - olla - to have
+myös - myös - also
+oma - oma - own
+tv-sarja - tv-sarja - TV series
+
+--- new line ---
+Professori Matti Klinge on kuollut.
+Translation: Professor Matti Klinge has died.
+
+professori - professori - professor
+Matti - Matti - Matti
+Klinge - Klinge - Klinge
+on - on - has
+kuollut - kuolla - died
+
+--- new line ---
+Klinge oli yhteiskunnallinen keskustelija.
+Translation: Klinge was a social commentator.
+
+Klinge - Klinge - Klinge
+oli - olla - was
+yhteiskunnallinen - yhteiskunnallinen - social
+keskustelija - keskustelija - commentator
+
+--- new line ---
+Hän ei väistellyt aiheita, jotka herättivät väittelyä.
+Translation: She did not avoid topics that aroused debate.
+
+hän - hän - she
+ei - ei - not
+väistellyt - väistellä - to avoid
+aiheita - aihe - topic
+jotka - joka - which
+herättivät - herättää - to arouse
+väittelyä - väittely - debate
+
+--- new line ---
+Keskiviikkona etelässä ja idässä sataa lunta ja tuuli on puuskaista.
+Translation: On Wednesday, it will snow in the south and east and the wind will be gusty.
+
+keskiviikkona - keskiviikko - Wednesday
+etelässä - etelä - south
+ja - ja - and
+idässä - idä - east
+sataa - sataa - will snow
+lunta - lumi - snow
+ja - ja - and
+tuuli - tuuli - wind
+on - olla - will be
+puuskaista - puuska - gusty
+
+--- new line ---
+Pohjoisessa on laajalti aurinkoista.
+Translation: In the North there is a lot of sunshine.
+
+pohjoisessa - pohjoinen - north
+on - olla - to be
+laajalti - laaja - wide
+aurinkoista - aurinkoinen - sunny
+
+--- new line ---
+Pakkasta on pääosin 4...10 astetta, Pohjois-Lapissa on paikoin kylmempää.
+Translation: The frost is mostly 4...10 degrees, in Northern Lapland it is colder in some places.
+
+pakkasta - pakkanen - frost
+on - olla - to be
+pääosin - pääosin - mostly
+4...10 - neljä...kymmenen - four...ten
+astetta - astetta - degrees
+Pohjois-Lapissa - Pohjois-Lappi - Northern Lapland
+on - olla - to be
+paikoin - paikoin - in some places
+kylmempää - kylmä - cold
+
+--- new line ---

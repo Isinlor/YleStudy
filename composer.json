@@ -1,0 +1,22 @@
+{
+    "name": "share-knowlage/web-scraping",
+    "type": "project",
+    "license": "BSD-2-Clause",
+    "authors": [
+        {
+            "name": "Tomasz Darmetko",
+            "email": "isinlor@gmail.com"
+        }
+    ],
+    "require": {
+        "PHP": "^8.0",
+        "league/csv": "@stable",
+        "league/uri": "@stable",
+        "symfony/http-client": "@stable",
+        "symfony/dom-crawler": "@stable",
+        "symfony/filesystem": "@stable",
+        "monolog/monolog": "@stable",
+        "symfony/css-selector": "@stable",
+        "symfony/finder": "@stable"
+    }
+}

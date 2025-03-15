@@ -1,0 +1,361 @@
+Ensin uutinen Ylen vaalikoneesta.
+Translation: First news about Yle's election machine.
+
+ensin - ensin - first
+uutinen - uutinen - news
+Ylen - Yle - Yle
+vaalikoneesta - vaalikone - election machine
+
+--- new line ---
+Ylen vaalikone on nyt auki netissä.
+Translation: Yle's election tool is now open online.
+
+Ylen - Yle - Yle
+vaalikone - Vaalikone - Election Tool
+on - olla - is
+nyt - nyt - now
+auki - auki - open
+netissä - netti - online
+
+--- new line ---
+Vaalikone auttaa äänestäjää löytämään hyvän ehdokkaan eduskuntavaaleissa, jotka ovat kuukauden päästä.
+Translation: The election tool helps the voter find a good candidate in the parliamentary elections, which are a month away.
+
+Vaalikone - Vaalikone - Election Tool
+auttaa - auttaa - helps
+äänestäjää - äänestäjä - voter
+löytämään - löytää - to find
+hyvän - hyvä - good
+ehdokkaan - ehdokas - candidate
+eduskuntavaaleissa - eduskuntavaalit - parliamentary elections
+jotka - jotka - which
+ovat - olla - are
+kuukauden - kuukausi - month
+päästä - päästä - away
+
+--- new line ---
+Vaalikoneesta voit katsoa, kuka ehdokas on asioista samaa mieltä kuin sinä.
+Translation: From the election tool you can see which candidate agrees with you on the issues.
+
+Vaalikoneesta - Vaalikone - election tool
+voit - voi - can
+katsoa - katsoa - to see
+kuka - kuka - who
+ehdokas - ehdokas - candidate
+on - olla - is
+asioista - asia - issue
+samaa - sama - same
+mieltä - mieli - opinion
+kuin - kuin - than
+sinä - sinä - you
+
+--- new line ---
+Eduskuntavaalien ehdokkaista noin 90 prosenttia on vastannut kysymyksiin Ylen vaalikoneessa.
+Translation: About 90 percent of the candidates for the parliamentary elections have answered questions in Yle's election machine.
+
+Eduskuntavaalien - Eduskuntavaalit - Parliamentary elections
+ehdokkaista - ehdokas - candidate
+noin - noin - about
+90 prosenttia - 90 prosenttia - 90 percent
+on - on - have
+vastannut - vastata - to answer
+kysymyksiin - kysymys - question
+Ylen - Yle - Yle
+vaalikoneessa - Vaalikone - Election Machine
+
+--- new line ---
+Koneessa on myös puolueiden vastaukset kysymyksiin.
+Translation: The machine also has the parties' responses to the questions.
+
+koneessa - kone - machine
+on - olla - to be
+myös - myös - also
+puolueiden - puolue - party
+vastaukset - vastaus - response
+kysymyksiin - kysymys - question
+
+--- new line ---
+Ylen vaalikone on nyt auki netissä.
+Translation: Yle's election tool is now open online.
+
+Ylen - Yle - Yle
+vaalikone - Vaalikone - Election Tool
+on - olla - is
+nyt - nyt - now
+auki - auki - open
+netissä - netti - online
+
+--- new line ---
+Vaalikone on suomen, ruotsin ja pohjois-saamen kielen lisäksi myös englanniksi, venäjäksi, ja arabiaksi.
+Translation: The election tool is also available in English, Russian, and Arabic, in addition to Finnish, Swedish, and Northern Sami.
+
+Vaalikone - Vaalikone - election tool
+on - olla - to be
+suomen - suomi - Finnish
+ruotsin - ruotsi - Swedish
+ja - ja - and
+pohjois-saamen - pohjoissaame - Northern Sami
+kielen - kieli - language
+lisäksi - lisäksi - in addition
+myös - myös - also
+englanniksi - englanti - English
+venäjäksi - venäjä - Russian
+ja - ja - and
+arabiaksi - arabia - Arabic
+
+--- new line ---
+Vaalikone on osoitteessa yle.fi.
+Translation: The election tool is at yle.fi.
+
+vaalikone - vaalikone - election tool
+on - olla - to be
+osoitteessa - osoite - address
+yle.fi - yle.fi - yle.fi
+
+--- new line ---
+Nyt uutinen pankkitileistä.
+Translation: Now news about bank accounts.
+
+nyt - nyt - now
+uutinen - uutinen - news
+pankkitileistä - pankkitili - bank account
+
+--- new line ---
+Pankit maksavat määräaikaisille talletuksille enemmän korkoa kuin aikaisemmin.
+Translation: Banks are paying more interest on fixed deposits than before.
+
+pankit - pankki - bank
+maksavat - maksaa - to pay
+määräaikaisille - määräaikainen - fixed
+talletuksille - talletus - deposit
+enemmän - enemmän - more
+korkoa - korko - interest
+kuin - kuin - than
+aikaisemmin - aikaisempi - before
+
+--- new line ---
+Ihmiset myös laittavat enemmän rahaa määräaikaisille pankkitileille kuin aiemmin.
+Translation: People are also putting more money into savings accounts than before.
+
+ihmiset - ihminen - people
+myös - myös - also
+laittavat - laittaa - to put
+enemmän - enemmän - more
+rahaa - raha - money
+määräaikaisille - määräaikainen - savings
+pankkitileille - pankkitili - bank account
+kuin - kuin - than
+aiemmin - aiemmin - before
+
+--- new line ---
+Rahaa pitää laittaa tilille esimerkiksi vuodeksi, jotta saa paremman koron kuin tavalliselta käyttötililtä.
+Translation: Money should be put into an account for example for a year, in order to get a better interest rate than from a regular current account.
+
+rahaa - raha - money
+pitää - pitää - should
+laittaa - laittaa - to put
+tilille - tili - account
+esimerkiksi - esimerkiksi - for example
+vuodeksi - vuosi - year
+jotta - jotta - in order to
+saa - saada - to get
+paremman - parempi - better
+koron - korko - interest rate
+kuin - kuin - than
+tavalliselta - tavallinen - regular
+käyttötililtä - käyttötili - current account
+
+--- new line ---
+Pankit maksavat määräaikaisille talletuksille enemmän korkoa kuin aikaisemmin.
+Translation: Banks are paying more interest on fixed deposits than before.
+
+pankit - pankki - bank
+maksavat - maksaa - to pay
+määräaikaisille - määräaikainen - fixed
+talletuksille - talletus - deposit
+enemmän - enemmän - more
+korkoa - korko - interest
+kuin - kuin - than
+aikaisemmin - aikaisempi - before
+
+--- new line ---
+Pankit maksavat rahalle korkoa yleensä 2-2,5 prosenttia.
+Translation: Banks usually pay interest on money at 2-2.5 percent.
+
+pankit - pankki - bank
+maksavat - maksaa - to pay
+rahalle - raha - money
+korkoa - korko - interest
+yleensä - yleensä - usually
+2-2,5 - 2-2,5 - 2-2.5
+prosenttia - prosentti - percent
+
+--- new line ---
+Seuraavan uutisen aiheena on peura.
+Translation: The topic of the next news is deer.
+
+seuraavan - seuraava - next
+uutisen - uutinen - news
+aiheena - aihe - topic
+on - on - is
+peura - peura - deer
+
+--- new line ---
+Suomessa on yli 100 000 valkohäntäpeuraa.
+Translation: In Finland there are over 100,000 white-tailed deer.
+
+Suomessa - Suomessa - in Finland
+on - olla - to be
+yli - yli - over
+100 000 - sata tuhatta - one hundred thousand
+valkohäntäpeuraa - valkohäntäpeura - white-tailed deer
+
+--- new line ---
+Joillakin alueilla peuroja on liian paljon.
+Translation: In some areas, there are too many deer.
+
+joillakin - joillakin - in some
+alueilla - alue - area
+peuroja - peura - deer
+on - olla - to be
+liian - liian - too
+paljon - paljon - many
+
+--- new line ---
+Peurat syövät pellolla paljon kasveja.
+Translation: Deer eat a lot of plants in the field.
+
+peurat - peura - deer
+syövät - syödä - to eat
+pellolla - pelto - field
+paljon - paljon - a lot
+kasveja - kasvi - plant
+
+--- new line ---
+Samuel Jussilan tilalla Janakkalassa käy peuroja joka päivä:
+Translation: Every day, deer visit Samuel Jussila's farm in Janakkala:
+
+Samuel - Samuel - Samuel
+Jussilan - Jussilan - Jussila's
+tilalla - tila - farm
+Janakkalassa - Janakkala - Janakkala
+käy - käydä - visit
+peuroja - peura - deer
+joka - joka - every
+päivä - päivä - day
+
+--- new line ---
+-Pelloilla erikoiskasvit kärsii kaikista eniten.
+Translation: Of all the special crops, the ones grown in fields suffer the most.
+
+pelloilla - pellolla - field
+erikoiskasvit - erikoiskasvi - special crop
+kärsii - kärsiä - to suffer
+kaikista - kaikki - all
+eniten - eniten - the most
+
+--- new line ---
+Lisäksi tässä ympärillä on näitä lehmuksia, ne syödään aina.
+Translation: In addition, there are these mulberry trees around here, they are always eaten.
+
+lisäksi - lisäksi - in addition
+tässä - tässä - here
+ympärillä - ympärillä - around
+on - olla - to be
+näitä - nämä - these
+lehmuksia - lehmukset - mulberry trees
+ne - ne - they
+syödään - syödä - to eat
+aina - aina - always
+
+--- new line ---
+Niitä joutuu suojaamaan.
+Translation: They have to be protected.
+
+niitä - ne - they
+joutuu - joutua - have to
+suojaamaan - suojata - to protect
+
+--- new line ---
+Suomessa on yli 100 000 valkohäntäpeuraa.
+Translation: In Finland there are over 100,000 white-tailed deer.
+
+Suomessa - Suomessa - in Finland
+on - olla - to be
+yli - yli - over
+100 000 - sata tuhatta - one hundred thousand
+valkohäntäpeuraa - valkohäntäpeura - white-tailed deer
+
+--- new line ---
+Uusi selvitys sanoo, että peuroja pitää metsästää enemmän kuin aikaisemmin.
+Translation: A new report says that more deer need to be hunted than before.
+
+uusi - uusi - new
+selvitys - selvitys - report
+sanoo - sanoa - to say
+että - että - that
+peuroja - peura - deer
+pitää - pitää - need to
+metsästää - metsästää - to hunt
+enemmän - enemmän - more
+kuin - kuin - than
+aikaisemmin - aikaisemmin - before
+
+--- new line ---
+Vielä sääennuste.
+Translation: And the weather forecast.
+
+vielä - vielä - still
+sääennuste - sääennuste - weather forecast
+
+--- new line ---
+Lauantaina on kylmempää kuin perjantaina.
+Translation: Saturday is colder than Friday.
+
+lauantaina - lauantai - Saturday
+on - olla - to be
+kylmempää - kylmä - cold
+kuin - kuin - than
+perjantaina - perjantai - Friday
+
+--- new line ---
+Sää on melko pilvinen.
+Translation: The weather is quite cloudy.
+
+sää - sää - weather
+on - olla - to be
+melko - melko - quite
+pilvinen - pilvinen - cloudy
+
+--- new line ---
+Paikoin sataa vähän lunta.
+Translation: In some places there is a little snowfall.
+
+paikoin - paikoin - in some places
+sataa - sataa - to snow
+vähän - vähän - a little
+lunta - lumi - snow
+
+--- new line ---
+Lämpötila on 0...-7 astetta.
+Translation: The temperature is between 0 and -7 degrees.
+
+lämpötila - lämpötila - temperature
+on - olla - to be
+0 - 0 - 0
+astetta - astetta - degrees
+
+--- new line ---
+Yle Uutiset selkosuomeksi kertoo uutiset helpolla suomen kielellä.
+Translation: Yle News in Easy Finnish tells news in easy Finnish language.
+
+Yle - Yle - Yle
+Uutiset - Uutiset - News
+selkosuomeksi - selkosuomi - Easy Finnish
+kertoo - kertoa - tells
+uutiset - uutiset - news
+helpolla - helppo - easy
+suomen - suomi - Finnish
+kielellä - kieli - language
+
+--- new line ---

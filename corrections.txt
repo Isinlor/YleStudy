@@ -1,0 +1,34 @@
+-Pelloilla erikoiskasvit kärsii kaikista eniten.
+Translation: Of all the special crops, the ones grown in fields suffer the most.
+
+pelloilla - pellolla - field
+erikoiskasvit - erikoiskasvi - special crop
+kärsii - kärsiä - to suffer
+kaikista - kaikki - all
+eniten - eniten - the most
+
+Correction:
+
+In the fields special plants suffer most of all.
+
+Lauantaina on kylmempää kuin perjantaina.
+Translation: Saturday is colder than Friday.
+
+lauantaina - lauantai - Saturday
+on - olla - to be
+kylmempää - kylmä - cold
+kuin - kuin - than
+perjantaina - perjantai - Friday
+
+Correction:
+
+On Saturday it is colder than on Friday.
+
+--- new line ---
+Lämpötila on 0...-7 astetta.
+Translation: The temperature is between 0 and -7 degrees.
+
+lämpötila - lämpötila - temperature
+on - olla - to be
+0 - 0 - 0
+astetta - astetta - degrees

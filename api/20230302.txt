@@ -1,0 +1,403 @@
+Ensin uutinen lakoista.
+Translation: First, the news about the floods.
+
+ensin - ensin - first
+uutinen - uutinen - news
+lakoista - lakko - flood
+
+--- new line ---
+Satamien ahtaajien lakko loppuu.
+Translation: The dockers' strike at the ports is ending.
+
+satamien - satama - port
+ahtaajien - ahtaaja - docker
+lakko - lakko - strike
+loppuu - loppua - to end
+
+--- new line ---
+Auto- ja kuljetusalan liitto hyväksyi keskiviikkona ahtaajien uudet työehdot.
+Translation: The Automotive and Transport Union approved the new working conditions for the packers on Wednesday.
+
+auto- ja - auto- ja - automotive and
+kuljetusalan - kuljetusalan - transport
+liitto - liitto - union
+hyväksyi - hyväksyä - approved
+keskiviikkona - keskiviikko - Wednesday
+ahtaajien - ahtaaja - packer
+uudet - uusi - new
+työehdot - työehdot - working conditions
+
+--- new line ---
+Ahtaajien palkka nousee 2 vuoden aikana 6,3 prosenttia.
+Translation: The wages of stokers will increase by 6.3 percent in two years.
+
+ahtaajien - ahtaaja - stoker
+palkka - palkka - wage
+nousee - nousta - to increase
+2 - kaksi - two
+vuoden - vuosi - year
+aikana - aikana - during
+6,3 - kuusi kolme - six three
+prosenttia - prosentti - percent
+
+--- new line ---
+Työntekijät saavat myös tässä kuussa 1100 euroa rahaa muun palkan lisäksi.
+Translation: Employees will also receive 1100 euros in addition to their regular salary this month.
+
+työntekijät - työntekijä - employee
+saavat - saada - to receive
+myös - myös - also
+tässä - tämä - this
+kuussa - kuukausi - month
+1100 - yksi tuhat - one thousand
+euroa - euro - euro
+rahaa - raha - money
+muun - muun - other
+palkan - palkka - salary
+lisäksi - lisäksi - in addition
+
+--- new line ---
+Satamien ahtaajien lakko loppuu.
+Translation: The dockers' strike at the ports is ending.
+
+satamien - satama - port
+ahtaajien - ahtaaja - docker
+lakko - lakko - strike
+loppuu - loppua - to end
+
+--- new line ---
+Bussilakko sen sijaan jatkuu ensi viikon perjantaihin asti, jos työriitaa ei sovita sitä ennen.
+Translation: The bus strike, on the other hand, will continue until next Friday, if the labor dispute is not settled before then.
+
+bussilakko - bussilakko - bus strike
+sen sijaan - sen sijaan - on the other hand
+jatkuu - jatkua - to continue
+ensi - ensi - next
+viikon - viikko - week
+perjantaihin - perjantai - Friday
+asti - asti - until
+jos - jos - if
+työriitaa - työriita - labor dispute
+ei - ei - not
+sovita - sovittaa - to settle
+sitä - se - that
+ennen - ennen - before
+
+--- new line ---
+Sovittelu jatkuu tänään torstaina.
+Translation: Mediation continues today Thursday.
+
+sovittelu - sovittelu - mediation
+jatkuu - jatkua - to continue
+tänään - tänään - today
+torstaina - torstai - Thursday
+
+--- new line ---
+Nyt uutinen puolueiden kannatuskyselystä.
+Translation: Now news of the party support survey.
+
+nyt - nyt - now
+uutinen - uutinen - news
+puolueiden - puolue - party
+kannatuskyselystä - kannatuskysely - support survey
+
+--- new line ---
+Suomen suosituin puolue on yhä oppositiopuolue kokoomus.
+Translation: Finland's most popular party is still the opposition party, the National Coalition Party.
+
+Suomen - Suomi - Finland
+suosituin - suosituin - most popular
+puolue - puolue - party
+on - olla - is
+yhä - yhä - still
+oppositiopuolue - oppositiopuolue - opposition party
+kokoomus - Kokoomus - National Coalition Party
+
+--- new line ---
+Ylen kyselyssä kokoomuksen kannatus on melkein 21 prosenttia.
+Translation: In Yle's survey, the support for the National Coalition Party is almost 21 percent.
+
+Ylen - Yle - Yle
+kyselyssä - kysely - survey
+kokoomuksen - kokoomus - National Coalition Party
+kannatus - kannatus - support
+on - olla - is
+melkein - melkein - almost
+21 - kaksikymmentäyksi - twenty-one
+prosenttia - prosentti - percent
+
+--- new line ---
+Kokoomuksen kannatus on laskenut.
+Translation: The support for the National Coalition Party has decreased.
+
+Kokoomuksen - Kokoomuksen - National Coalition Party
+kannatus - kannatus - support
+on - on - has
+laskenut - laskea - to decrease
+
+--- new line ---
+Pääministeri Sanna Marinin puolue SDP on kyselyssä sijalla 2.
+Translation: Prime Minister Sanna Marin's party SDP is in second place in the poll.
+
+pääministeri - pääministeri - prime minister
+Sanna Marinin - Sanna Marin - Sanna Marin
+puolue - puolue - party
+SDP - SDP - SDP
+on - olla - is
+kyselyssä - kysely - poll
+sijalla - sija - place
+2 - kaksi - two
+
+--- new line ---
+SDP:n kannatus on noin 20 prosenttia.
+Translation: The support for the Social Democratic Party is about 20 percent.
+
+SDP:n - SDP - Social Democratic Party
+kannatus - kannatus - support
+on - olla - to be
+noin - noin - about
+20 - 20 - 20
+prosenttia - prosentti - percent
+
+--- new line ---
+Oppositiopuolue perussuomalaiset on sijalla 3.
+Translation: The opposition party, the Finns, is in third place.
+
+oppositiopuolue - oppositiopuolue - opposition party
+perussuomalaiset - perussuomalainen - Finns
+on - olla - is
+sijalla - sijalla - place
+3 - kolme - three
+
+--- new line ---
+Perussuomalaisten kannatus on 19 prosenttia.
+Translation: The support for the Finns Party is 19 percent.
+
+Perussuomalaisten - Perussuomalaiset - Finns Party
+kannatus - kannatus - support
+on - olla - is
+19 - 19 - 19
+prosenttia - prosentti - percent
+
+--- new line ---
+SDP:n ja perussuomalaisten kannatus on noussut.
+Translation: The support for the Social Democratic Party and the Finns Party has risen.
+
+SDP:n - SDP - Social Democratic Party
+ja - ja - and
+perussuomalaisten - perussuomalainen - Finns Party
+kannatus - kannatus - support
+on - on - has
+noussut - nousta - to rise
+
+--- new line ---
+Suomen suosituin puolue on yhä oppositiopuolue kokoomus.
+Translation: Finland's most popular party is still the opposition party, the National Coalition Party.
+
+Suomen - Suomi - Finland
+suosituin - suosituin - most popular
+puolue - puolue - party
+on - olla - is
+yhä - yhä - still
+oppositiopuolue - oppositiopuolue - opposition party
+kokoomus - Kokoomus - National Coalition Party
+
+--- new line ---
+Eduskuntavaalit ovat kuukauden päästä.
+Translation: The parliamentary elections are in a month.
+
+eduskuntavaalit - eduskuntavaalit - parliamentary elections
+ovat - olla - are
+kuukauden - kuukausi - month
+päästä - päästä - from
+
+--- new line ---
+Seuraavaksi aiheena ovat linnut.
+Translation: Next, the topic is birds.
+
+seuraavaksi - seuraavaksi - next
+aiheena - aihe - topic
+ovat - olla - are
+linnut - lintu - bird
+
+--- new line ---
+Monet lintulajit viettävät talven pohjoisempana kuin aikaisemmin.
+Translation: Many bird species are spending the winter further north than before.
+
+monet - monet - many
+lintulajit - lintulaji - bird species
+viettävät - viettää - to spend
+talven - talvi - winter
+pohjoisempana - pohjoinen - north
+kuin - kuin - than
+aikaisemmin - aikaisempi - before
+
+--- new line ---
+Syynä on ilmastonmuutos. Jotkut linnut tarvitsevat talvella lunta.
+Translation: The reason is climate change. Some birds need snow in winter.
+
+syynä - syy - reason
+on - olla - to be
+ilmastonmuutos - ilmastonmuutos - climate change
+jotkut - jotkut - some
+linnut - lintu - bird
+tarvitsevat - tarvita - to need
+talvella - talvi - winter
+lunta - lumi - snow
+
+--- new line ---
+Tällainen lintu on esimerkiksi riekko.
+Translation: Such a bird is for example a snipe.
+
+tällainen - tällainen - such
+lintu - lintu - bird
+on - on - is
+esimerkiksi - esimerkiksi - for example
+riekko - riekko - snipe
+
+--- new line ---
+Toiset linnut löytävät pohjoisessa ruokaa helpommin kuin aiemmin, kun pelloilla ei ole paljon lunta.
+Translation: Some birds find food more easily in the north than before, when there is not much snow on the fields.
+
+toiset - toinen - some
+linnut - lintu - bird
+löytävät - löytää - to find
+pohjoisessa - pohjoinen - north
+ruokaa - ruoka - food
+helpommin - helpommin - more easily
+kuin - kuin - than
+aiemmin - aiemmin - before
+kun - kun - when
+pellolla - pellon - field
+ei - ei - not
+ole - olla - to be
+paljon - paljon - much
+lunta - lumi - snow
+
+--- new line ---
+Tällainen lintu on esimerkiksi varis.
+Translation: Such a bird is, for example, a raven.
+
+tällainen - tällainen - such
+lintu - lintu - bird
+on - on - is
+esimerkiksi - esimerkiksi - for example
+varis - varis - raven
+
+--- new line ---
+Aleksi Lehikoinen Helsingin yliopistosta:
+Translation: Aleksi Lehikoinen from the University of Helsinki:
+
+Aleksi - Aleksi - Aleksi
+Lehikoinen - Lehikoinen - Lehikoinen
+Helsingin - Helsingin - Helsinki
+yliopistosta - yliopisto - university
+
+--- new line ---
+-Lumi on tärkeämpi kuin lämpötila näin talvisaikaan.
+Translation: Snow is more important than temperature during winter.
+
+lumi - lumi - snow
+on - olla - to be
+tärkeämpi - tärkeä - important
+kuin - kuin - than
+lämpötila - lämpötila - temperature
+näin - näin - during
+talvisaikaan - talvi - winter
+
+--- new line ---
+Se vaikuttaa siihen, missä lajit esiintyy ja siihen miten linnut pääsevät käsiksi ravintoon.
+Translation: That affects where species occur and how birds can access food.
+
+se - se - that
+vaikuttaa - vaikuttaa - to affect
+siihen - siihen - to that
+missä - missä - where
+lajit - laji - species
+esiintyy - esiintyä - to occur
+ja - ja - and
+siihen - siihen - to that
+miten - miten - how
+linnut - lintu - bird
+pääsevät - päästä - to access
+käsiksi - käsi - hand
+ravintoon - ravinto - food
+
+--- new line ---
+Monet lintulajit viettävät talven pohjoisempana kuin aikaisemmin.
+Translation: Many bird species are spending the winter further north than before.
+
+monet - monet - many
+lintulajit - lintulaji - bird species
+viettävät - viettää - to spend
+talven - talvi - winter
+pohjoisempana - pohjoinen - north
+kuin - kuin - than
+aikaisemmin - aikaisempi - before
+
+--- new line ---
+Linnut ovat siirtyneet yli kilometrin vuodessa kohti pohjoista.
+Translation: Birds have been migrating more than a kilometer per year towards the north.
+
+linnut - lintu - bird
+ovat siirtyneet - siirtyä - to migrate
+yli - yli - more than
+kilometrin - kilometri - kilometer
+vuodessa - vuosi - year
+kohti - kohti - towards
+pohjoista - pohjoinen - north
+
+--- new line ---
+Vielä sääennuste.
+Translation: And the weather forecast.
+
+vielä - vielä - still
+sääennuste - sääennuste - weather forecast
+
+--- new line ---
+Aurinko paistaa perjantaina iltapäivällä lännessä.
+Translation: The sun is shining in the west on Friday afternoon.
+
+aurinko - aurinko - sun
+paistaa - paistaa - to shine
+perjantaina - perjantai - Friday
+iltapäivällä - iltapäivä - afternoon
+lännessä - länsi - west
+
+--- new line ---
+Idässä on enimmäkseen pilvistä ja paikoin sataa ehkä vähän lunta.
+Translation: In the east it is mostly cloudy and in some places it may snow a little.
+
+Idässä - idässä - in the east
+on - olla - to be
+enimmäkseen - enimmäkseen - mostly
+pilvistä - pilvi - cloud
+ja - ja - and
+paikoin - paikka - place
+sataa - sataa - to rain
+ehkä - ehkä - maybe
+vähän - vähän - a little
+lunta - lumi - snow
+
+--- new line ---
+Lämpötila on lännessä ja etelässä plussalla.
+Translation: The temperature is above zero in the west and south.
+
+lämpötila - lämpötila - temperature
+on - olla - to be
+lännessä - länsi - west
+ja - ja - and
+etelässä - etelä - south
+plussalla - plussa - above zero
+
+--- new line ---
+Idässä ja pohjoisessa on pakkasta.
+Translation: It is cold in the east and north.
+
+idässä - idässä - in the east
+ja - ja - and
+pohjoisessa - pohjoisessa - in the north
+on - on - is
+pakkasta - pakkanen - cold
+
+--- new line ---

@@ -1,0 +1,320 @@
+Ensin uutinen presidentti Niinistön Yhdysvaltain matkalta.
+Translation: First news of President Niinistö's trip to the United States.
+
+ensin - ensin - first
+uutinen - uutinen - news
+presidentti - presidentti - president
+Niinistön - Niinistö - Niinistö
+Yhdysvaltain - Yhdysvaltain - United States
+matkalta - matka - trip
+
+--- new line ---
+Presidentti Sauli Niinistö ja Yhdysvaltain presidentti Joe Biden ovat tavanneet Valkoisessa talossa.
+Translation: President Sauli Niinistö and US President Joe Biden have met at the White House.
+
+presidentti - presidentti - president
+Sauli Niinistö - Sauli Niinistö - Sauli Niinistö
+ja - ja - and
+Yhdysvaltain - Yhdysvaltain - US
+presidentti - presidentti - president
+Joe Biden - Joe Biden - Joe Biden
+ovat - olla - have
+tavanneet - tavata - to meet
+Valkoisessa - Valkoinen - White
+talossa - talo - house
+
+--- new line ---
+Tapaaminen järjestettiin presidentti Bidenin aloitteesta.
+Translation: The meeting was organized at the initiative of President Biden.
+
+tapaaminen - tapaaminen - meeting
+järjestettiin - järjestää - to organize
+presidentti - presidentti - president
+Bidenin - Biden - Biden
+aloitteesta - aloite - initiative
+
+--- new line ---
+Presidentit keskustelivat esimerkiksi Suomen Nato-jäsenyydestä ja Ukrainasta.
+Translation: The presidents discussed, for example, Finland's NATO membership and Ukraine.
+
+presidentit - presidentti - president
+keskustelivat - keskustella - to discuss
+esimerkiksi - esimerkiksi - for example
+Suomen - Suomi - Finland
+Nato-jäsenyydestä - Nato-jäsenyys - NATO membership
+ja - ja - and
+Ukrainasta - Ukraina - Ukraine
+
+--- new line ---
+Tänään presidentti Niinistö vierailee Norfolkin sotilastukikohdassa Virginian osavaltiossa.
+Translation: Today President Niinistö is visiting the military base in Norfolk, Virginia.
+
+tänään - tänään - today
+presidentti - presidentti - president
+Niinistö - Niinistö - Niinistö
+vierailee - vierailla - to visit
+Norfolkin - Norfolkin - Norfolk
+sotilastukikohdassa - sotilastukikohta - military base
+Virginian - Virginian - Virginia
+osavaltiossa - osavaltio - state
+
+--- new line ---
+Sen jälkeen hän palaa kotiin.
+Translation: After that, he returns home.
+
+sen - se - that
+jälkeen - jälkeen - after
+hän - hän - he
+palaa - palata - to return
+kotiin - kotiin - home
+
+--- new line ---
+Sitten kerromme apteekkien työvoimapulasta.
+Translation: Then we will tell about the shortage of staff in pharmacies.
+
+sitten - sitten - then
+kerromme - kertoa - to tell
+apteekkien - apteekki - pharmacy
+työvoimapulasta - työvoimapula - shortage of staff
+
+--- new line ---
+Apteekeilla on kova pula farmaseuteista.
+Translation: Pharmacies are in desperate need of pharmacists.
+
+apteekeilla - apteekki - pharmacy
+on - olla - to be
+kova - kova - desperate
+pula - pula - need
+farmaseuteista - farmaseutti - pharmacist
+
+--- new line ---
+Apteekkariliitto kertoo, että jopa 70 prosenttia apteekeista kärsii farmaseuttipulasta.
+Translation: The Pharmacists' Association reports that even 70 percent of pharmacies suffer from a shortage of pharmacists.
+
+Apteekkariliitto - Apteekkariliitto - Pharmacists' Association
+kertoo - kertoa - to report
+että - että - that
+jopa - jopa - even
+70 - 70 - 70
+prosenttia - prosentti - percent
+apteekeista - apteekki - pharmacy
+kärsii - kärsiä - to suffer
+farmaseuttipulasta - farmaseuttipula - shortage of pharmacists
+
+--- new line ---
+Farmaseutit ovat lääkkeiden ja lääkehoidon asiantuntijoita.
+Translation: Pharmacists are experts in medicines and medication.
+
+farmaseutit - farmaseutti - pharmacist
+ovat - olla - are
+lääkkeiden - lääke - medicine
+ja - ja - and
+lääkehoidon - lääkehoito - medication
+asiantuntijoita - asiantuntija - expert
+
+--- new line ---
+He tekevät työtä esimerkiksi apteekeissa, sairaaloissa ja lääketeollisuudessa.
+Translation: They work, for example, in pharmacies, hospitals and the pharmaceutical industry.
+
+he - he - they
+tekevät - tehdä - to do
+työtä - työ - work
+esimerkiksi - esimerkiksi - for example
+apteekeissa - apteekki - pharmacy
+sairaaloissa - sairaala - hospital
+ja - ja - and
+lääketeollisuudessa - lääketeollisuus - pharmaceutical industry
+
+--- new line ---
+Farmaseutteja tarvitaan yhä enemmän, koska Suomen väestö ikääntyy ja samalla lääkkeiden käyttö lisääntyy.
+Translation: Pharmacists are increasingly needed, as Finland's population is aging and the use of medications is increasing.
+
+Farmaseutteja - farmaseutti - pharmacist
+tarvitaan - tarvita - to need
+yhä - yhä - increasingly
+enemmän - enemmän - more
+koska - koska - because
+Suomen - Suomi - Finland
+väestö - väestö - population
+ikääntyy - ikääntyä - to age
+samalla - samalla - at the same time
+lääkkeiden - lääke - medication
+käyttö - käyttö - use
+lisääntyy - lisääntyä - to increase
+
+--- new line ---
+Apteekeilla on kova pula farmaseuteista.
+Translation: Pharmacies are in desperate need of pharmacists.
+
+apteekeilla - apteekki - pharmacy
+on - olla - to be
+kova - kova - desperate
+pula - pula - need
+farmaseuteista - farmaseutti - pharmacist
+
+--- new line ---
+Jotkut apteekit ovat joutuneet lyhentämään aukioloaikoja, koska farmaseutteja ei saada palkattua tarpeeksi.
+
+--- new line ---
+Lopuksi puhumme inflaatiosta ja ruuasta.
+Translation: Finally, we will talk about inflation and food.
+
+lopuksi - lopuksi - finally
+puhumme - puhua - to talk
+inflaatiosta - inflaatio - inflation
+ja - ja - and
+ruuasta - ruoka - food
+
+--- new line ---
+Voimakas inflaatio eli hintojen nousu on pakottanut monet ihmiset säästämään ruokaostoksista.
+Translation: Strong inflation, or rising prices, has forced many people to save on food purchases.
+
+voimakas - voimakas - strong
+inflaatio - inflaatio - inflation
+eli - eli - or
+hintojen - hinta - price
+nousu - nousta - to rise
+on - olla - to be
+pakottanut - pakottaa - to force
+monet - monet - many
+ihmiset - ihminen - people
+säästämään - säästää - to save
+ruokaostoksista - ruokaostos - food purchase
+
+--- new line ---
+Ihmiset jättävät nyt monet tuotteet kaupan hyllyyn, koska ne maksavat liikaa.
+Translation: People are now leaving many products on the store shelves because they cost too much.
+
+ihmiset - ihminen - people
+jättävät - jättää - to leave
+nyt - nyt - now
+monet - monet - many
+tuotteet - tuote - product
+kaupan - kauppa - store
+hyllyyn - hylly - shelf
+koska - koska - because
+ne - ne - they
+maksavat - maksaa - to cost
+liikaa - liikaa - too much
+
+--- new line ---
+Sen sijaan he saatavat ostaa halvempaa ja usein myös epäterveellisempää ruokaa kuin ennen.
+Translation: Instead, they can buy cheaper and often less healthy food than before.
+
+sen sijaan - sen sijaan - instead
+he - he - they
+saatavat - saada - can get
+ostaa - ostaa - to buy
+halvempaa - halpa - cheaper
+ja - ja - and
+usein - usein - often
+myös - myös - also
+epäterveellisempää - epäterveellinen - less healthy
+ruokaa - ruoka - food
+kuin - kuin - than
+ennen - ennen - before
+
+--- new line ---
+Myös monet keskituloiset ihmiset joutuvat nyt miettimään rahankäyttöä entistä tarkemmin, kertoo Takuusäätiö.
+Translation: Also, many middle-income people now have to think more carefully than before about spending money, says the Guarantee Foundation.
+
+myös - myös - also
+monet - monet - many
+keskituloiset - keskituloinen - middle-income
+ihmiset - ihminen - people
+joutuvat - joutua - have to
+nyt - nyt - now
+miettimään - miettiä - to consider
+rahankäyttöä - rahankäyttö - money usage
+entistä - entinen - former
+tarkemmin - tarkemmin - more closely
+kertoo - kertoa - to tell
+Takuusäätiö - Takuusäätiö - Guarantee Foundation
+
+--- new line ---
+Hintojen nousu on pakottanut monet ihmiset säästämään ruokaostoksista.
+Translation: The rise in prices has forced many people to save on food purchases.
+
+hintojen - hinta - price
+nousu - nousta - to rise
+on - olla - to be
+pakottanut - pakottaa - to force
+monet - monet - many
+ihmiset - ihminen - people
+säästämään - säästää - to save
+ruokaostoksista - ruokaostos - food purchase
+
+--- new line ---
+Niin tekee myös porvoolainen Outi Suvanto.
+Translation: So does Outi Suvanto from Porvoo.
+
+niin - niin - so
+tekee - tehdä - to do
+myös - myös - also
+porvoolainen - porvoolainen - from Porvoo
+Outi - Outi - Outi
+Suvanto - Suvanto - Suvanto
+
+--- new line ---
+- Jätän asioita ostamatta tai päädyn halvempaan, en ehkä niin terveelliseen vaihtoehtoon.
+Translation: I'm leaving things un-bought or opting for the cheaper, not necessarily healthier option.
+
+jätän - jättää - to leave
+asioita - asia - thing
+ostamatta - ostaa - to buy
+tai - tai - or
+päädyn - päätyä - to opt
+halvempaan - halpa - cheaper
+en - en - not
+ehkä - ehkä - maybe
+niin - niin - so
+terveelliseen - terveellinen - healthy
+vaihtoehtoon - vaihtoehto - option
+
+--- new line ---
+Sääennuste.
+Translation: Weather forecast.
+
+sääennuste - sääennuste - weather forecast
+
+--- new line ---
+Talvinen sää jatkuu viikonloppuna.
+Translation: The winter weather continues this weekend.
+
+talvinen - talvi - winter
+sää - sää - weather
+jatkuu - jatkua - to continue
+viikonloppuna - viikonloppu - weekend
+
+--- new line ---
+Lauantaina lumikuuroja tulee paikoin pohjoisessa ja etelässä.
+Translation: On Saturday, there will be snow showers in places in the north and south.
+
+lauantaina - lauantai - Saturday
+lumikuuroja - lumikuuro - snow shower
+tulee - tulla - will come
+paikoin - paikka - place
+pohjoisessa - pohjoinen - north
+ja - ja - and
+etelässä - etelä - south
+
+--- new line ---
+Pääosin on kuitenkin poutaa.
+Translation: Mostly, however, it is fair weather.
+
+pääosin - pääosin - mostly
+on - olla - to be
+kuitenkin - kuitenkin - however
+poutaa - pouta - fair weather
+
+--- new line ---
+Lämpötila on pakkasella koko maassa.
+Translation: The temperature is below freezing across the country.
+
+lämpötila - lämpötila - temperature
+on - on - is
+pakkasella - pakkas - below freezing
+koko - koko - whole
+maassa - maa - country
+
+--- new line ---

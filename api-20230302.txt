@@ -1,0 +1,43 @@
+Ensin uutinen lakoista.
+Translation: First, the news about the floods.
+
+ensin - ensin - first
+uutinen - uutinen - news
+lakoista - lakko - flood
+
+ --- new line ---
+Satamien ahtaajien lakko loppuu.
+Translation: The dockers' strike at the ports is ending.
+
+satamien - satama - port
+ahtaajien - ahtaaja - docker
+lakko - lakko - strike
+loppuu - loppua - to end
+
+ --- new line ---
+Auto- ja kuljetusalan liitto hyväksyi keskiviikkona ahtaajien uudet työehdot.
+Translation: The Automotive and Transport Union approved the new working conditions for the packers on Wednesday.
+
+auto- ja - auto- ja - automotive and
+kuljetusalan - kuljetusalan - transport
+liitto - liitto - union
+hyväksyi - hyväksyä - approved
+keskiviikkona - keskiviikko - Wednesday
+ahtaajien - ahtaaja - packer
+uudet - uusi - new
+työehdot - työehdot - working conditions
+
+ --- new line ---
+Ahtaajien palkka nousee 2 vuoden aikana 6,3 prosenttia.
+Translation: The wages of stokers will increase by 6.3 percent in two years.
+
+ahtaajien - ahtaaja - stoker
+palkka - palkka - wage
+nousee - nousta - to increase
+2 - kaksi - two
+vuoden - vuosi - year
+aikana - aikana - during
+6,3 - kuusi kolme - six three
+prosenttia - prosentti - percent
+
+ --- new line ---

@@ -1,0 +1,319 @@
+Ensin uutinen vaalikampanjoinnista.
+Translation: First news about election campaigning.
+
+ensin - ensin - first
+uutinen - uutinen - news
+vaalikampanjoinnista - vaalikampanjoinnista - election campaigning
+
+--- new line ---
+Puolueita harmittaa kauppakeskusten nuiva suhtautuminen vaalikampanjointiin.
+Translation: Political parties are annoyed by the hostile attitude of shopping centers towards election campaigning.
+
+puolueita - puolue - party
+harmittaa - harmittaa - to be annoyed
+kauppakeskusten - kauppakeskus - shopping center
+nuiva - nuiva - hostile
+suhtautuminen - suhtautuminen - attitude
+vaalikampanjointiin - vaalikampanjointi - election campaigning
+
+--- new line ---
+Monet kauppakeskukset eivät päästä eduskuntavaaliehdokkaita kampanjoimaan kauppakeskuksen tiloihin.
+Translation: Many shopping centers do not allow parliamentary candidates to campaign in the shopping center premises.
+
+monet - monet - many
+kauppakeskukset - kauppakeskus - shopping center
+eivät - ei - not
+päästä - päästä - to allow
+eduskuntavaaliehdokkaita - eduskuntavaaliehdokas - parliamentary candidate
+kampanjoimaan - kampanjoida - to campaign
+kauppakeskuksen - kauppakeskus - shopping center
+tiloihin - tila - premises
+
+--- new line ---
+Kauppakeskukset perustelevat kieltoa esimerkiksi sillä, että ne haluavat varmistaa asiakkaiden ostosrauhan.
+Translation: Shopping centers justify the ban, for example, by saying that they want to ensure customers' shopping peace.
+
+kauppakeskukset - kauppakeskus - shopping center
+perustelevat - perustella - to justify
+kieltoa - kielto - ban
+esimerkiksi - esimerkiksi - for example
+sillä - sillä - by
+ne - ne - they
+haluavat - haluta - to want
+varmistaa - varmistaa - to ensure
+asiakkaiden - asiakas - customer
+ostosrauhan - ostosrauha - shopping peace
+
+--- new line ---
+Jotkut myös sanovat,  että ehdokkaiden mainoslehtiset roskaavat kauppakeskuksen tilat.
+Translation: Some also say that the candidates' leaflets are littering the shopping center premises.
+
+jotkut - jotkut - some
+myös - myös - also
+sanovat - sanoa - to say
+että - että - that
+ehdokkaiden - ehdokas - candidate
+mainoslehtiset - mainoslehtinen - leaflet
+roskaavat - roska - litter
+kauppakeskuksen - kauppakeskus - shopping center
+tilat - tila - premises
+
+--- new line ---
+Puolueita ja vaaliehdokkaita kielto harmittaa.
+Translation: Parties and candidates are annoyed by the ban.
+
+puolueita - puolue - party
+ja - ja - and
+vaaliehdokkaita - vaaliehdokas - candidate
+kielto - kielto - ban
+harmittaa - harmittaa - to annoy
+
+--- new line ---
+Niiden mielestä kampanjointi pitää sallia siellä,  missä äänestäjät liikkuvat.
+Translation: In their opinion, campaigning should be allowed where voters move.
+
+niiden - niiden - their
+mielestä - mieli - opinion
+kampanjointi - kampanjoida - campaigning
+pitää - pitää - should
+sallia - sallia - to allow
+siellä - siellä - there
+missä - missä - where
+äänestäjät - äänestäjä - voter
+liikkuvat - liikkua - to move
+
+--- new line ---
+Sitten kerromme ruutuajasta.
+Translation: Then we will tell about the broadcast time.
+
+sitten - sitten - then
+kerromme - kertoa - to tell
+ruutuajasta - ruutuajat - broadcast time
+
+--- new line ---
+Suomalaisten ruutuaika kasvoi koronavuosina ennätystasolle.
+Translation: The screen time of Finns rose to a record level during the coronavirus years.
+
+suomalaisten - suomalainen - Finnish
+ruutuaika - ruutuaika - screen time
+kasvoi - kasvaa - rose
+koronavuosina - koronavuosi - coronavirus year
+ennätystasolle - ennätystaso - record level
+
+--- new line ---
+Ruutuaika tarkoittaa aikaa, jonka ihminen kuluttaa jonkinlaisen näyttöruuden ääressä.
+Translation: Screen time refers to the amount of time a person spends in front of some kind of screen.
+
+ruutuaika - ruutuaika - screen time
+tarkoittaa - tarkoittaa - refers to
+aikaa - aika - time
+jonka - jonka - which
+ihminen - ihminen - person
+kuluttaa - kuluttaa - spends
+jonkinlaisen - jonkinlainen - some kind of
+näyttöruuden - näyttöruutu - screen
+ääressä - ääressä - in front of
+
+--- new line ---
+Näyttöruutuja ovat esimerkiksi televisio, älypuhelin, tietokone tai pelikone.
+Translation: Examples of screens are television, smartphone, computer or game console.
+
+näyttöruutuja - näyttöruutu - screen
+ovat - olla - are
+esimerkiksi - esimerkiksi - for example
+televisio - televisio - television
+älypuhelin - älypuhelin - smartphone
+tietokone - tietokone - computer
+pelikone - pelikone - game console
+
+--- new line ---
+Korona-aikana ruutuaika kasvoi ennätystasolle.
+Translation: During the Corona period, screen time reached record levels.
+
+Korona-aikana - Korona-aikana - during the Corona period
+ruutuaika - ruutuaika - screen time
+kasvoi - kasvaa - to grow
+ennätystasolle - ennätystaso - record level
+
+--- new line ---
+Tilastokeskus kertoo, että vuosina 2020-2021 suomalaiset viettivät aikaa erilaisten ruutujen ääressä keskimäärin 4,5 tuntia päivässä.
+Translation: Statistics Finland reports that in 2020-2021, Finns spent an average of 4.5 hours a day in front of various screens.
+
+Tilastokeskus - Tilastokeskus - Statistics Finland
+kertoo - kertoa - to report
+että - että - that
+vuosina - vuosi - year
+2020-2021 - 2020-2021 - 2020-2021
+suomalaiset - suomalainen - Finns
+viettivät - viettää - to spend
+aikaa - aika - time
+erilaisten - erilainen - various
+ruutujen - ruutu - screen
+ääressä - ääressä - in front of
+keskimäärin - keskimäärin - on average
+4,5 - 4,5 - 4.5
+tuntia - tunti - hour
+päivässä - päivä - day
+
+--- new line ---
+Nuorten ruutuaika oli vielä pidempi, lähes 6 tuntia päivässä.
+Translation: Young people's screen time was even longer, almost 6 hours a day.
+
+nuorten - nuori - young
+ruutuaika - ruutuaika - screen time
+oli - olla - was
+vielä - vielä - even
+pidempi - pitkä - longer
+lähes - lähes - almost
+6 - kuusi - six
+tuntia - tunti - hour
+päivässä - päivä - day
+
+--- new line ---
+Lopuksi kerromme talvinuottauksesta  eli talvikalastuksesta nuotalla.
+Translation: Finally, we will talk about winter fishing with a jig.
+
+lopuksi - lopuksi - finally
+kerromme - kertoa - to tell
+talvinuottauksesta - talvinuottaus - winter fishing
+eli - eli - that is
+talvikalastuksesta - talvikalastus - winter fishing
+nuotalla - nuotta - jig
+
+--- new line ---
+Tässä kalastetaan muikkua Saimaan Puruvedellä.
+Translation: Here they are fishing for whitefish in Saimaa Puruvesi.
+
+tässä - tässä - here
+kalastetaan - kalastaa - to fish
+muikkua - muikku - whitefish
+Saimaan - Saimaa - Saimaa
+Puruvedellä - Puruvesi - Puruvesi
+
+--- new line ---
+Muikku jää nuottaan, jota vedetään jään alla.
+Translation: The vendace stays in the net, which is pulled under the ice.
+
+muikku - muikku - vendace
+jää - jäädä - to stay
+nuottaan - nuotta - net
+jota - joka - which
+vedetään - vetää - to pull
+jään - jää - ice
+alla - alla - under
+
+--- new line ---
+Ilmastonmuutos kuitenkin uhkaa talvinuottausperinnettä.
+Translation: However, climate change threatens the winter fishing tradition.
+
+ilmastonmuutos - ilmastonmuutos - climate change
+kuitenkin - kuitenkin - however
+uhkaa - uhata - to threaten
+talvinuottausperinnettä - talvinuottausperinne - winter fishing tradition
+
+--- new line ---
+Ilmastonmuutoksen takia järvien jääaika on lyhentynyt.
+Translation: Due to climate change, the ice season of lakes has shortened.
+
+ilmastonmuutoksen - ilmastonmuutos - climate change
+takia - takia - due to
+järvien - järvi - lake
+jääaika - jääaika - ice season
+on - olla - to be
+lyhentynyt - lyhentyä - to shorten
+
+--- new line ---
+Syksyllä järvi jäätyy entistä myöhemmin, ja keväällä jäät sulavat pois entistä aikaisemmin.
+Translation: In the fall, the lake freezes later than before, and in the spring the ice melts away earlier than before.
+
+syksyllä - syksy - fall
+järvi - järvi - lake
+jäätyy - jäätyä - to freeze
+entistä - entinen - former
+myöhemmin - myöhemmin - later
+ja - ja - and
+keväällä - kevät - spring
+jäät - jää - ice
+sulavat - sulattaa - to melt
+pois - pois - away
+entistä - entinen - former
+aikaisemmin - aikaisemmin - earlier
+
+--- new line ---
+Nuottausperinnettä uhkaa myös se, että ammattikalastajien määrä Suomessa on romahtanut.
+Translation: The tradition of net fishing is also threatened by the fact that the number of professional fishermen in Finland has plummeted.
+
+nuottausperinnettä - nuottausperinne - tradition of net fishing
+uhkaa - uhata - to threaten
+myös - myös - also
+se - se - that
+ammattikalastajien - ammattikalastaja - professional fisherman
+määrä - määrä - number
+Suomessa - Suomi - Finland
+on - olla - to be
+romahtanut - romahtaa - to plummet
+
+--- new line ---
+Kalan alhainen hinta ei houkuttele nuoria alalle.
+Translation: The low price of fish does not attract young people to the industry.
+
+kalan - kala - fish
+alhainen - alhainen - low
+hinta - hinta - price
+ei - ei - not
+houkuttele - houkutella - to attract
+nuoria - nuori - young
+alalle - ala - industry
+
+--- new line ---
+Vielä sääennuste.
+Translation: And the weather forecast.
+
+vielä - vielä - still
+sääennuste - sääennuste - weather forecast
+
+--- new line ---
+Perjantaina etelässä tulee jokunen lumikuuro.
+Translation: On Friday there will be some snow showers in the south.
+
+perjantaina - perjantai - Friday
+etelässä - etelä - south
+tulee - tulla - will come
+jokunen - jokin - some
+lumikuuro - lumikuuro - snow shower
+
+--- new line ---
+Yleisesti sää on kuitenkin poutaista, eli sateetonta.
+Translation: Generally, the weather is however fair, meaning without rain.
+
+yleisesti - yleisesti - generally
+sää - sää - weather
+on - olla - to be
+kuitenkin - kuitenkin - however
+poutaista - poutainen - fair
+eli - eli - meaning
+sateetonta - sateeton - without rain
+
+--- new line ---
+Aurinko paistaa monin paikoin.
+Translation: The sun is shining in many places.
+
+aurinko - aurinko - sun
+paistaa - paistaa - to shine
+monin - moni - many
+paikoin - paikka - place
+
+--- new line ---
+Lämpötila kohoaa etelässä nollan yläpuolelle, muutoin on pakkasta.
+Translation: The temperature will rise above zero in the south, otherwise it will be frosty.
+
+lämpötila - lämpötila - temperature
+kohoaa - kohota - to rise
+etelässä - etelä - south
+nollan - nolla - zero
+yläpuolelle - yläpuolella - above
+muutoin - muutoin - otherwise
+on - olla - to be
+pakkasta - pakkanen - frosty
+
+--- new line ---
