@@ -38,12 +38,17 @@ function transform(string $subtitles) {
     $deduped = [];
     foreach ($sentences as $line) {
         $previous = $deduped[count($deduped) - 1] ?? null;
-        if ($previous !== null && str_contains($previous, $line)) {
-            continue;
+        if ($previous !== null) {
+            if ($previous === $line) {
+                continue;
+            }
+            if (str_contains($previous, $line)) {
+                continue;
+            }
         }
         $deduped[] = $line;
     }
-    $sentences = array_values(array_unique($deduped));
+    $sentences = $deduped;
 
     return implode("\n", $sentences);
 }
