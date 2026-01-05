@@ -20,7 +20,7 @@ jobs:
         run: composer install --no-interaction --no-progress --prefer-dist
 
       - name: Run scraper
-        run: php scrape.php
+        run: php scrape.php --limit=1
 
       - name: Run transformer
         run: php transform.php subtitles/20230301.vtt
