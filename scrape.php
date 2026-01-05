@@ -173,18 +173,28 @@ $getProgramIds = function() use ($httpClient, $areenaRequestOptions, $appendQuer
     return array_values(array_unique($ids));
 };
 
-$programIds = $getProgramIds();
+$options = getopt('', ['id:', 'limit:', 'year:']);
+$targetId = $options['id'] ?? null;
+$limit = isset($options['limit']) ? max(1, (int) $options['limit']) : null;
+$year = $options['year'] ?? '2025';
+
+$programIds = $targetId ? [$targetId] : $getProgramIds();
+$savedCount = 0;
 foreach ($programIds as $id) {
     echo "Getting $id\n";
     $data = $getResponse($id);
     $date = $getDate($data, $id);
-    if (substr($date, 0, 4) !== '2025') {
+    if ($year !== 'all' && substr($date, 0, 4) !== $year) {
         continue;
     }
     try {
         $subtitles = $getSubtitles($data);
         file_put_contents("subtitles/{$date}.vtt", $subtitles);
         file_put_contents("subtitles/{$date}.txt", transform($subtitles));
+        $savedCount++;
+        if ($limit !== null && $savedCount >= $limit) {
+            break;
+        }
     } catch (Throwable $e) {
         echo "Failed to get subtitles for $id\n";
     }
