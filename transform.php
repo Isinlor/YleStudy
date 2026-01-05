@@ -17,9 +17,16 @@ function transform(string $subtitles) {
     $sentences = preg_split('/(\r\n\r\n|\r\r|\n\n)/', $subtitles);
 
     // per sentence remove new lines
-    $sentences = array_map(fn($line) => preg_replace('/\r\n|\r|\n/', ' ', $line), $sentences);
+    $sentences = array_map(function($line) {
+        $parts = preg_split('/\r\n|\r|\n/', $line);
+        $parts = array_values(array_filter(array_map('trim', $parts), fn($part) => $part !== ''));
+        $parts = array_values(array_unique($parts));
+        return implode(' ', $parts);
+    }, $sentences);
     // trim spurious spaces that may have been introduced
     $sentences = array_map(fn($line) => preg_replace('/\s\s/', ' ', $line), $sentences);
+    $sentences = array_map('trim', $sentences);
+    $sentences = array_filter($sentences, fn($line) => $line !== '');
 
     $sentencesToRemove = [
         "Nyt uutisia helpolla suomen kielellä, hyvää päivää.",
@@ -28,6 +35,20 @@ function transform(string $subtitles) {
     ];
 
     $sentences = array_filter($sentences, fn($line) => !in_array($line, $sentencesToRemove));
+    $deduped = [];
+    foreach ($sentences as $line) {
+        $previous = $deduped[count($deduped) - 1] ?? null;
+        if ($previous !== null) {
+            if ($previous === $line) {
+                continue;
+            }
+            if (str_contains($previous, $line)) {
+                continue;
+            }
+        }
+        $deduped[] = $line;
+    }
+    $sentences = $deduped;
 
     return implode("\n", $sentences);
 }
