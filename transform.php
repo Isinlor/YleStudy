@@ -53,6 +53,10 @@ function transform(string $subtitles) {
     return implode("\n", $sentences);
 }
 
-if(isset($argv[1])) {
+$isCliEntryPoint = PHP_SAPI === 'cli'
+    && isset($argv[0])
+    && realpath($argv[0]) === __FILE__;
+
+if ($isCliEntryPoint && isset($argv[1])) {
     echo transform(file_get_contents($argv[1]));
 }
