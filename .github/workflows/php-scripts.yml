@@ -1,0 +1,26 @@
+name: Test PHP scripts
+
+on:
+  pull_request:
+
+jobs:
+  test-scripts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          tools: composer
+
+      - name: Install dependencies
+        run: composer install --no-interaction --no-progress --prefer-dist
+
+      - name: Run scraper
+        run: php scrape.php
+
+      - name: Run transformer
+        run: php transform.php subtitles/20230301.vtt
