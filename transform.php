@@ -3,8 +3,10 @@ declare(strict_types=1);
 
 function transform(string $subtitles) {
 
+    $subtitles = preg_replace('/^WEBVTT.*(\r\n|\r|\n)/', '', $subtitles);
+    $subtitles = preg_replace('/^X-TIMESTAMP-MAP=.*(\r\n|\r|\n)/m', '', $subtitles);
     // remove empty subtitle lines
-    $subtitles = preg_replace('/[\r\n]+\.[\r\n]{0,2}/', '', $subtitles);
+    $subtitles = preg_replace('/[\r\n]+\.[\r\n]{0,2}/', "\n\n", $subtitles);
     // remove timing information
     $subtitles = preg_replace('/\d*(\r\n|\r|\n).*?-->.*?(\r\n|\r|\n)/', '', $subtitles);
 
